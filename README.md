@@ -1,4 +1,4 @@
-## Project Title: Customer Analysis Using SQL
+## Project Title: Customer Analysis Using SQL and PowerBI
 
 Description:
 This project involves a comprehensive analysis of customer behavior using SQL on a dataset containing 10,000 records from the retail domain. The objective was to uncover patterns related to income levels, spending scores, membership status, subscription preferences, and overall satisfaction to drive data-informed marketing and customer engagement strategies.
